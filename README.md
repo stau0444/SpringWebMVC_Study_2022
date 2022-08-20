@@ -199,3 +199,5 @@ protocol://[host.]domain[:port][/context][/resource]
 
 ### 스프링 부트 주요 웹 자동 구성
 
+<img width="518" alt="스크린샷 2022-08-20 오전 11 42 53" src="https://user-images.githubusercontent.com/51349774/185726121-1fb684ab-51d5-4bda-8fe2-ba8c21324950.png">
+
