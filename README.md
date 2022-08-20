@@ -160,6 +160,6 @@ protocol://[host.]domain[:port][/context][/resource]
 
 #### Spring MVC 요청 , 응답 흐름
 
-<img width="547" alt="SpringMVC" src="https://user-images.githubusercontent.com/51349774/185724315-57b0fbde-1041-47ce-8273-df462b3ea176.png">
 
+<img width="544" alt="스크린샷 2022-08-20 오전 10 48 38" src="https://user-images.githubusercontent.com/51349774/185724672-64cd6c01-e133-4999-8826-bbdc71c60a5e.png">
 
